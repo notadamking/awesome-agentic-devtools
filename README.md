@@ -107,6 +107,7 @@ Create full-stack web applications from natural language descriptions.
 | **[Devin](https://devin.ai)** | AI software engineer (Cognition Labs) | Full development cycle | API/Web |
 | **[SWE-agent](https://swe-agent.com)** | Autonomous debugging and feature development | ![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent.svg) | Command line |
 | **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** | Codebase generation from natural language | ![Stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer.svg) | Python package |
+| **[Stoneforge](https://stoneforge.ai)** | Open-source orchestration for AI coding agents with parallel execution | ![Stars](https://img.shields.io/github/stars/stoneforge-ai/stoneforge.svg) | API/Self-hosted |
 | **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | Autonomous AI agent for various tasks | ![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg) | Self-hosted |
 
 ### Code Review & Quality
